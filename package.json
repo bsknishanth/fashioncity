@@ -1,0 +1,22 @@
+{
+  "name": "fashioncity",
+  "version": "1.0.0",
+  "description": "this is a wonderful app for latest trends",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsknishanth/fashioncity.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "nish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsknishanth/fashioncity/issues"
+  },
+  "homepage": "https://github.com/bsknishanth/fashioncity#readme"
+}
